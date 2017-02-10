@@ -1,0 +1,9 @@
+[Core]
+Name = Bender
+Module = bender
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Example "@bender make me a xxx..."
